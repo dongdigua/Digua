@@ -11,7 +11,7 @@ Plug 'mhartington/oceanic-next'
 Plug 'joshdick/onedark.vim'
 Plug 'JuliaEditorSupport/julia-vim'
 call plug#end()
-map tree :NERDTreeToggle<CR> 
+map tree :NERDTreeToggle
 map '' :PlugInstall<CR>
 "colorscheme OceanicNext
 "let g:airline_theme='oceanicnext'
