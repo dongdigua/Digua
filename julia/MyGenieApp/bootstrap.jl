@@ -1,2 +1,0 @@
-using MyGenieApp
-MyGenieApp.main()
