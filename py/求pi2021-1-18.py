@@ -11,5 +11,5 @@ for i in range(1,DARTS):
     if dist <= 1.0:
         hits = hits + 1
 pi = 4*(hits/DARTS)
-print('pi is %s' % pi)    #那个 % 到底是什么意思呀啊啊啊!!!
+print('pi is %s' % pi)    #那个 % 到底是什么意思呀啊啊啊!!! 哦,是python2的写法
 #print('time i %-5.5s' % clock)
